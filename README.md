@@ -4,7 +4,7 @@ Prototype de serrure électronique à mot de passe, réalisé sur **Arduino UNO*
 
 Projet réalisé en binôme avec **Sara Bouazza**.
 
-![Schéma du circuit (Tinkercad)](images/schema-circuit-tinkercad.png)
+![Simulation du circuit sur Tinkercad](Brave%20Kup-Turing.png)
 
 ## Fonctionnement
 
@@ -55,7 +55,7 @@ Projet réalisé en binôme avec **Sara Bouazza**.
 
 ## Documentation
 
-Rapport complet : [docs/rapport-smart-locking-system.docx](docs/rapport-smart-locking-system.docx)
+Rapport complet : [rapport-smart-locking-system.docx](rapport-smart-locking-system.docx)
 
 ## Auteures
 
