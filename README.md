@@ -47,6 +47,10 @@ Projet réalisé en binôme avec **Sara Bouazza**.
 2. Installer les bibliothèques **Keypad** et **LiquidCrystal I2C** (Gestionnaire de bibliothèques).
 3. Téléverser le programme sur la carte, ou simuler le montage sur Tinkercad Circuits.
 
+## Simulation en ligne
+
+Le circuit est simulable sur Tinkercad Circuits (lecture seule) : [smart-house-lock sur Tinkercad](https://www.tinkercad.com/things/2juvx3HE9v7-smart-house-lock?sharecode=IMU8XBl58YGeRq4s8h6RcNtBhQxnu8yObyjf6iyh-zc)
+
 ## Pistes d'amélioration
 
 - Remplacer l'attente bloquante (`delay`) de l'alarme par une gestion non bloquante.
